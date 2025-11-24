@@ -7,7 +7,7 @@ A simple **demo** built using the concepts learned in the undergraduate course *
 
 ## 📷 Demo
 <p align="center">
-  <img src="./vsdh_simulation.gif" width="420"/>
+  <img src="./example_gif.gif" width="420"/>
 </p>
 
 ---
