@@ -25,5 +25,5 @@ A simple **demo** built using the concepts learned in the undergraduate course *
 
 ```bash
 git clone https://github.com/<your-id>/ur5e-virtual-spring-damper-demo.git
-cd ur5e-virtual-spring-damper-demo
+cd ur5e-virtual-spring-damper-demo/UR5control
 
