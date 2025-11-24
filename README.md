@@ -1,6 +1,6 @@
 # UR5e Virtual Spring-Damper Demo
 
-MATLAB & Simscape implementation of the **Virtual Spring-Damper Hypothesis (Arimoto & Sekimoto)** applied to the **UR5e manipulator**.  
+MATLAB & Simscape implementation of the **Virtual Spring-Damper Hypothesis ** applied to the **UR5e manipulator**.  
 A simple **demo** built using the concepts learned in the undergraduate course **Robot Manipulation**, created to help visualize and better understand the underlying theory..
 
 
